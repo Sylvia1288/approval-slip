@@ -61,4 +61,4 @@
 ## 许可与声明
 
 MIT License，见 `LICENSE`。
-"赛博朋克"主题只是配色和版式上的致敬。与 CD PROJEKT RED 无关，也未获其认可。
+"赛博朋克"主题只是配色和版式上的致敬。与 CD PROJEKT RED 无关，且未获其认可。
